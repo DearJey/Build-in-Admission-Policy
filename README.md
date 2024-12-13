@@ -1,4 +1,4 @@
-# ValidatingAdmissionPolicy-and-MutatingAdmissionPolicy
+# Build-in-Admission-Policy
 
 * [Validating Admission Policy](https://kubernetes.io/docs/reference/access-authn-authz/validating-admission-policy/)
 
