@@ -11,8 +11,9 @@ ValidatingAdmissionPolicyでは、CLE式をKubernetesリソースに埋め込む
 
 ## 構成するリソース
 
-* alidating Admission Policy：ポリシーのロジックを記述する。
+* Validating Admission Policy：ポリシーのロジックを記述する。
 * Validating Admission Policy Binding：ネームスペースと記述したポリシーを紐づけする。
+* ()
 
 ## ハンズアウト
 
