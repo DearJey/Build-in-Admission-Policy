@@ -7,6 +7,8 @@ Admission Webhook は操作が複雑であったり、 自身でインストー�
 
 ValidatingAdmissionPolicyでは、CLE式をKubernetesリソースに埋め込むことにより、kube-apiserver単独でポリシー制御を行うことができるようになった。
 
+![vpa image](../images/vpa-image.png)
+
 ## 構成するリソース
 
 * alidating Admission Policy：ポリシーのロジックを記述する。
